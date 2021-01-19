@@ -1,0 +1,22 @@
+#rectangle {
+    height: 150px;
+    width: 200px;
+}
+
+#Array1 {
+    font-family: cursive;
+    display:none;
+    color: white;
+    background-color: darkblue;
+    background-image: linear-gradient(green, darkblue);
+}
+
+#Array2 {
+    font-family: fantasy;
+    display:none;
+    height: 150px;
+    width: 200px;
+    color: white;
+    background-color: green;
+    background-image: linear-gradient(darkblue, green);
+}
